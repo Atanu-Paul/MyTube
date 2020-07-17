@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# This project is about building a youtube clone with the help of the youtube api and React.js and Redux
+
+#### Only the search video is added so far with just react
+
 ## Available Scripts
 
 In the project directory, you can run:
